@@ -1,0 +1,11 @@
+# KiCad backup folders
+STM32F103C8T6-backups/
+first-kicad-project-backups/
+
+# KiCad user‑preference and autosave files
+*.kicad_prl
+
+# (You can also ignore other ephemeral outputs, e.g.:)
+# *.kicad_fab
+# *.kicad_wks
+# *.kicad_cache
